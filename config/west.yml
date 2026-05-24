@@ -14,7 +14,7 @@ manifest:
       import: app/west.yml
     - name: zmk-dactly-manuform
       remote: dactylmanuform
-      revision: main
+      revision: xiao_ble
     - name: zmk-dongle-screen
       remote: janpfischer
       revision: main
